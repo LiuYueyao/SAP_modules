@@ -1,7 +1,7 @@
 # Problems and Solutions
+*created on 2020/1/15 by LiuYueyao*
 
 ## Item category &1 not allowed in accounting transaction &2/&3
-
 ##### PROBLEM: Message no. GLT2001, error at document posting  
 ![Image](./pictures_FI/GLT2001_1.png)
 ##### REASON: go to SPRO
