@@ -4,6 +4,7 @@
 * [FI](./FI)
   * [T-codes](./FI/Tcodes_FI.md)
   * [Tables](./FI/Tables_FI.md)
+  * [Problems and solutions](./FI/P&S_FI.md)
 * [CO](./CO)
   * [T-codes](./CO/Tcodes_CO.md)
   * [Tables](./CO/Tables_CO.md)
